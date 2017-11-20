@@ -22,6 +22,4 @@ Ardından GitStats JavaScript kodlarını konsolda çalıştıralım.
 
 Aşağıdaki gibi isim / toplam katkı / yüzdelik katkı şeklinde tablo çıktısı verecektir.
 
-<i>The table output will give the name / total commit / percentage contribution as follows.</i>
-
-<img src="https://omergulcicek.com/img/gitstats-result.png">
+<i>The table output will give the name / total commit / percentage contribution as follows.</i
