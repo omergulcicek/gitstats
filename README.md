@@ -8,11 +8,11 @@ GitHub projelerine yapılan katkıları tablo olarak gösterir.
 
 GitStats JavaScript kodlarının en başında yer alan <b>var repo</b> değişkenine istediğiniz projenin <b>kullanıcıAdı/repositorieAdını</b> yazmak yeterlidir.
 
-Örnek olarak Turkuaz Css projesini kullanılmıştır. (<i>var repo = "omergulcicek/turkuazcss";</i>)
+Örnek olarak Turkuaz Css projesini kullanılmıştır. (<b>var repo = "omergulcicek/turkuazcss";</b>)
 
-<i>It is enough to write the <b>username/repositorieName</b> of the project you want to change to the <b>var repo</b> variable at the top of GitStats's JavaScript code.</i>
+<i>It is enough to write the <b>username/repositorieName</b> of the project you want to change to the <b>var repo</b> variable at the top of GitStats's JavaScript code.
 
-<i>As an example Turkuaz Css project is used. (<i>var repo = "omergulcicek/turkuazcss";</i>) 
+As an example Turkuaz Css project is used. (<b>var repo = "omergulcicek/turkuazcss";</b>)</i>
 
 Ardından GitStats JavaScript kodlarını çalıştıralım.
 
