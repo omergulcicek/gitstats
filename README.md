@@ -6,20 +6,20 @@ GitHub projelerine yapılan katkıları tablo olarak gösterir.
 
 <h2>Kullanımı (<i>Use of</i>)</h2>
 
-İlk olarak GitHub'ta proje sayfasını, arından <b>Insights</b> sekmesinden <b>Contributors</b>'ı açalım.
+GitStats JavaScript kodlarının en başında yer alan <b>var repo</b> değişkenine istediğiniz projenin <b>kullanıcıAdı/repositorieAdını</b> yazmak yeterlidir.
 
-Örneğin Turkuaz Css projesi için: <a href="https://github.com/omergulcicek/turkuazcss/graphs/contributors">Turkuaz Css - Katkıda Bulunanlar</a>
+Örnek olarak Turkuaz Css projesini kullanılmıştır. (<i>var repo = "omergulcicek/turkuazcss";</i>)
 
-<i>First, let's open the project page in GitHub, then the <b>Contributors</b> in the <b>Insights</b> tab.</i>
+<i>It is enough to write the <b>username/repositorieName</b> of the project you want to change to the <b>var repo</b> variable at the top of GitStats's JavaScript code.</i>
 
-<i>Example for Turkuaz Css project: <a href="https://github.com/omergulcicek/turkuazcss/graphs/contributors">Turkuaz Css - Contributors</a></i>
+<i>As an example Turkuaz Css project is used. (<i>var repo = "omergulcicek/turkuazcss";</i>) 
 
-<img src="https://omergulcicek.com/img/gitstats.png">
+Ardından GitStats JavaScript kodlarını çalıştıralım.
 
-Ardından GitStats JavaScript kodlarını konsolda çalıştıralım.
-
-<i>Then run the GitStats JavaScript code through the console.</i>
+<i>Then let's run the GitStats JavaScript code.</i>
 
 Aşağıdaki gibi isim / toplam katkı / yüzdelik katkı şeklinde tablo çıktısı verecektir.
 
-<i>The table output will give the name / total commit / percentage contribution as follows.</i
+<i>The table output will give the name / total commit / percentage contribution as follows.</i>
+
+<img src="https://omergulcicek.com/img/gitstat.png">
