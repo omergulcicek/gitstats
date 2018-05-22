@@ -22,4 +22,3 @@ Aşağıdaki gibi isim / toplam katkı / yüzdelik katkı şeklinde tablo çıkt
 
 <i>The table output will give the name / total commit / percentage contribution as follows.</i>
 
-<img src="https://omergulcicek.com/img/gitstat.png">
